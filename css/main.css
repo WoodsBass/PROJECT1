@@ -66,7 +66,15 @@ margin-left: 50px;
     margin-left: 50px;
 }
 
+.column8 {
+    align-items: center;
+    margin-left: 50px;
+}
 
+.column9 {
+    align-items: center;
+    margin-left: 50px;
+}
 
 .catalyst {
     text-align: center;
@@ -82,4 +90,11 @@ margin-left: 50px;
 
 .HOW-TO-HELP {
 text-align: inherit;
+}
+
+.hottie {
+    color: crimson;
+    align-items: center;
+    margin-left: 50px;
+
 }
