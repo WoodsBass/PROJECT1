@@ -51,6 +51,23 @@ margin-left: 50px;
     margin-left: 50px;
 }
 
+.column5 {
+    align-items: center;
+    margin-left: 50px; 
+}
+
+.column6 {
+    align-items: center;
+    margin-left: 50px;
+}
+
+.column7 {
+    align-items: center;
+    margin-left: 50px;
+}
+
+
+
 .catalyst {
     text-align: center;
 }
