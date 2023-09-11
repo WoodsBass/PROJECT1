@@ -1,0 +1,25 @@
+/* Place CSS styles here */
+
+body{
+    color: deeppink; 
+    background-color: rgb(95, 0, 0);
+}
+
+img{
+    width: 50%;
+text-align: center;
+}
+
+.shit-sand {
+    text-align: center;
+    font-size: larger;
+}
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.Barbie-fire {
+    text-align: center;
+}
